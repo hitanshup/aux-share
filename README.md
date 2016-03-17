@@ -6,5 +6,5 @@ aux-share will be an application for remote audio play from one phone to another
 ## Architecture
 1. Filesharing/streaming plugins (bluetooth, wifi)
 2. NodeJS backend
-3. Ionic + Angular front end
+3. Ionic + Angular front end (and ES6 + TypeScript)
 4. Cordova for hardware plugins
