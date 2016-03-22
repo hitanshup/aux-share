@@ -1,0 +1,22 @@
+{
+  "name": "aux-share",
+  "version": "1.0.0",
+  "description": "## About aux-share will be an application for remote audio play from one phone to another. It will allow one phone in a group of phones to be the host and other clients connect to it. The clients will queue songs they want to play on the hosts phone (which could be connected to a speaker, car audio, etc). aux-share will target ios/android platforms using an angularjs + ionic front end, a nodejs backend, and corodova plugins.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hitanshup/aux-share.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hitanshup/aux-share/issues"
+  },
+  "homepage": "https://github.com/hitanshup/aux-share#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
